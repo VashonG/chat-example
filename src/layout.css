@@ -1,0 +1,19 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background-color: cornsilk;
+}
+.str-chat__channel-list {
+  width: 100%;
+}
+.str-chat__channel {
+  width: 1400px;
+}
+.str-chat__thread {
+  width: 55%;
+  color: #D98C33;
+}
